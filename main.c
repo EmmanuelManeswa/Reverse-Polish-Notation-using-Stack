@@ -120,7 +120,7 @@ int main(void){
     char *expr = (char*)malloc(EXPR_SIZE * sizeof(char));
 
     printf("\n\tSUPPORTED OPERATORS { (), +, -, *, /, $(power) }\n");
-    printf("\tSUPPORTED DIGITS [0-9]\n\n");
+    printf("\tSUPPORTED NUMBERS [0-9]\n\n");
 
     while(loop){
         printf("\t1. Enter Infix to convert.\n");
