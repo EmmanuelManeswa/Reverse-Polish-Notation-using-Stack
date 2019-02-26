@@ -1,5 +1,8 @@
 # Reverse-Polish-Notation-using-Stack
 
+Supports single values[0-9], meaning if you try to use 2/more valued numbers, each digit is treated as
+if it's on it's own.
+
 Sample Output:
 
                 SUPPORTED OPERATORS { (), +, -, *, /, $(power) }
